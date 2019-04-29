@@ -1,0 +1,11 @@
+h1{
+	font-family: 'Permanent Marker', cursive;
+	line-height: 1em;
+	letter-spacing: 0.2em;
+	
+}
+div .cont{
+	padding: 1em;
+	margin-bottom: 1em;
+	background: linear-gradient(to left,rgba(7,27,82,1),rgba(9,128,128,1) 100%);
+}
