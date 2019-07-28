@@ -3,7 +3,7 @@ const Search=({searchChange})=>{
 	return(
 			<div className='tc'>
 			<input 
-			className='pa2 ba b--green bg-lightest-blue' 
+			className='pa2 ba b--green bg-lightest-blue mb3' 
 			type='search' 
 			placeholder='Search RoBo'
 			onChange={searchChange}

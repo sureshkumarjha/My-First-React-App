@@ -9,3 +9,6 @@ div .cont{
 	margin-bottom: 1em;
 	background: linear-gradient(to left,rgba(7,27,82,1),rgba(9,128,128,1) 100%);
 }
+.bglinear{
+	background: linear-gradient(to left,rgba(7,27,82,1),rgba(9,128,128,1) 100%);
+}
